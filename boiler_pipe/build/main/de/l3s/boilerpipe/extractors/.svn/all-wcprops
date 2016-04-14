@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors
+END
+CanolaExtractor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/CanolaExtractor$1.class
+END
+ArticleExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/ArticleExtractor.class
+END
+KeepEverythingWithMinKWordsExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/KeepEverythingWithMinKWordsExtractor.class
+END
+DefaultExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/DefaultExtractor.class
+END
+KeepEverythingExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/KeepEverythingExtractor.class
+END
+NumWordsRulesExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/NumWordsRulesExtractor.class
+END
+ExtractorBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/ExtractorBase.class
+END
+ArticleSentencesExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/ArticleSentencesExtractor.class
+END
+CommonExtractors.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/CommonExtractors.class
+END
+LargestContentExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/LargestContentExtractor.class
+END
+CanolaExtractor.class
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/extractors/CanolaExtractor.class
+END

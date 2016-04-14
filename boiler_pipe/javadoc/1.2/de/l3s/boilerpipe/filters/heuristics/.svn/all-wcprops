@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/package-frame.html
+END
+ExpandTitleToContentFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/ExpandTitleToContentFilter.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/package-summary.html
+END
+KeepLargestBlockFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/KeepLargestBlockFilter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/package-tree.html
+END
+SimpleBlockFusionProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/SimpleBlockFusionProcessor.html
+END
+ArticleMetadataFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/ArticleMetadataFilter.html
+END
+ListAtEndFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/ListAtEndFilter.html
+END
+ContentFusion.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/ContentFusion.html
+END
+TrailingHeadlineToBoilerplateFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/TrailingHeadlineToBoilerplateFilter.html
+END
+DocumentTitleMatchClassifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/DocumentTitleMatchClassifier.html
+END
+AddPrecedingLabelsFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/AddPrecedingLabelsFilter.html
+END
+BlockProximityFusion.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/BlockProximityFusion.html
+END
+LargeBlockSameTagLevelToContentFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/LargeBlockSameTagLevelToContentFilter.html
+END
+LabelFusion.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/javadoc/1.2/de/l3s/boilerpipe/filters/heuristics/LabelFusion.html
+END

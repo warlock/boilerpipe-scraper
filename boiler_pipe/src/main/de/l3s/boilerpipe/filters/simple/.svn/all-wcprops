@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple
+END
+BoilerplateBlockFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/BoilerplateBlockFilter.java
+END
+LabelToContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/LabelToContentFilter.java
+END
+SurroundingToContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/SurroundingToContentFilter.java
+END
+MinClauseWordsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/MinClauseWordsFilter.java
+END
+SplitParagraphBlocksFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/SplitParagraphBlocksFilter.java
+END
+InvertedFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/InvertedFilter.java
+END
+MarkEverythingBoilerplateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/MarkEverythingBoilerplateFilter.java
+END
+MinWordsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/MinWordsFilter.java
+END
+LabelToBoilerplateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/LabelToBoilerplateFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/package.html
+END
+MarkEverythingContentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/src/main/de/l3s/boilerpipe/filters/simple/MarkEverythingContentFilter.java
+END

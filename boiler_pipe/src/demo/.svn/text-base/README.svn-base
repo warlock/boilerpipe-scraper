@@ -1,0 +1,8 @@
+
+Execucio
+java -classpath ../../dist/boilerpipe-1.2.0.jar:.:../../lib/nekohtml-1.9.13.jar:../../lib/xerces-2.9.1.jar de.l3s.boilerpipe.demo.Oneliner http://www.diaridegirona.cat/economia/2012/06/12/experts-neguen-que-rescat-bancari-estimuli-credit-families-empreses/567018.html
+
+Compilacio
+
+javac de/l3s/boilerpipe/demo/Oneliner.java -classpath ../../dist/boilerpipe-1.2.0.jar:.:../../lib/nekohtml-1.9.13.jar:../../lib/xerces-2.9.1.jar
+
