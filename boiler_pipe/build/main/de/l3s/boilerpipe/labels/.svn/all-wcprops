@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/labels
+END
+DefaultLabels.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/labels/DefaultLabels.class
+END
+LabelAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/labels/LabelAction.class
+END
+ConditionalLabelAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/aranyes/!svn/ver/3677/tags/kraken3/v1.13/external-class/boiler_pipe/build/main/de/l3s/boilerpipe/labels/ConditionalLabelAction.class
+END
