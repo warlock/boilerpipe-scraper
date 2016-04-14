@@ -1,6 +1,6 @@
 {
-  "name": "Boilerpipe-Scraper",
-  "version": "0.0.2",
+  "name": "boilerpipe-scraper",
+  "version": "0.0.1",
   "description": "Boilerpipe Modification",
   "main": "index.js",
   "repository": {
