@@ -1,0 +1,21 @@
+{
+  "name": "Boilerpipe-Scraper",
+  "version": "0.0.2",
+  "description": "Boilerpipe Modification",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:warlock/boilerpipe-scraper.git"
+  },
+  "keywords": [
+    "tor",
+    "crawler",
+    "scraper"
+  ],
+  "author": "Josep Subils",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warlock/boilerpipe-scraper/issues"
+  },
+  "homepage": "https://github.com/warlock/boilerpipe-scraper"
+}
