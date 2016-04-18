@@ -6,7 +6,7 @@ Boilerpipe with modifications. In unique instance:
 ```javascript
 var boiler = require('boilerpipe-scraper')
 
-boiler("http://www.spellbook.io", "192.168.0.1:3128 192.168.0.2:3128" (resp) => {
-        console.log(resp)
+boiler("http://www.spellbook.io", "192.168.0.1:3128 192.168.0.2:3128", (err, text, proxy) => {
+        console.log(text)
 })
 ```
