@@ -3,7 +3,6 @@ var spawn = require('child_process').spawn;
 
 module.exports = function (url, proxy, callback) {
     if (typeof proxy === 'function') callback = proxy
-    //console.log("java -jar " + __dirname + "/boilerpipe.jar " + url + " " + proxy)
     var query = spawn('java', ["-jar", __dirname + "/boilerpipe.jar", url, proxy])
     var text, proxyres = ""
     var err = null
