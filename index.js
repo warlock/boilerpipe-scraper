@@ -10,12 +10,12 @@ module.exports = function (url, proxy, callback) {
     var n = 0;
     query.stdout.on('data', function (data) {
         if (n === 0) text = data
-        else proxyres =+ " " + data 
+        else proxyres =+ " " + data
         n++
     })
 
     query.stderr.on('data', function (data) {
-        err = console.log(data.toString())
+        err = data.toString()
     })
 
     query.on('close', function () {
