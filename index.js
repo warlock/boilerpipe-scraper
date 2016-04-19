@@ -10,7 +10,7 @@ module.exports = function (url, proxy, callback) {
     var n = 0;
     query.stdout.on('data', function (data) {
         if (n === 0) text = data
-        else proxyres =+ " " + data
+        else if (data !== 0) proxyres =+ " " + data
         n++
     })
 
