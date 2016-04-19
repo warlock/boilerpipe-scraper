@@ -1,24 +1,25 @@
 "use strict";
-var spawn = require('child_process').spawn;
+var exec = require('child_process').exec;
 
 module.exports = function (url, proxy, callback) {
-    if (typeof proxy === 'function') callback = proxy
-    var query = spawn('java', ["-jar", __dirname + "/boilerpipe.jar", url, proxy])
-    var text, proxyres = ""
-    var err = null
-    query.stdout.setEncoding('utf8')
-    var n = 0;
-    query.stdout.on('data', function (data) {
-        if (n === 0) text = data
-        else if (data !== 0) proxyres =+ " " + data
-        n++
-    })
+  if (typeof proxy === 'string') var proc = exec('java -jar ' + __dirname + '/boilerpipe.jar ' + url + ' ' + proxy)
+  else {
+    callback = proxy
+    var proc = exec('java -jar ' + __dirname + '/boilerpipe.jar ' + url)
+  }
 
-    query.stderr.on('data', function (data) {
-        err = data.toString()
-    })
+  var list = []
+  var error = []
+  proc.stdout.setEncoding('utf8');
+  proc.stdout.on('data', function (res) {
+    list.push(res)
+  })
 
-    query.on('close', function () {
-       callback(err, text, proxyres)
-    })
+  proc.stderr.on('error', function (err) {
+    error.push(err)
+  })
+
+  proc.stdout.on('end', function () {
+    callback(error.join(""), list.join(""))
+  })
 }
