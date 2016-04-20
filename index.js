@@ -7,7 +7,7 @@ module.exports = function (url, proxy, callback) {
     callback = proxy
     var proc = exec('java -jar ' + __dirname + '/boilerpipe.jar ' + url)
   }
-
+  
   var list = []
   var error = []
   proc.stdout.setEncoding('utf8');
