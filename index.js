@@ -5,9 +5,9 @@ module.exports = function (url, proxy, callback) {
   if (typeof proxy === 'string') var proc = exec('java -jar ' + __dirname + '/boilerpipe.jar ' + url + ' \"' + proxy + '\"')
   else {
     callback = proxy
-    var proc = exec('java -jar ' + __dirname + '/boilerpipe.jar ' + url)
+    var proc = exec('java -jar ' + __dirname + '/boilerpipe.jar ' + ' \"' + urlv+ '\"')
   }
-  
+
   var list = []
   var error = []
   proc.stdout.setEncoding('utf8');
