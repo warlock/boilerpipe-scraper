@@ -2,6 +2,7 @@
 Boilerpipe with modifications. In unique instance:
 - Request in multiple  proxy's.
 - Checks size of text and make multiple filters for get bigger.
+(Request timeout configurable)
 
 ```javascript
 var boiler = require('boilerpipe-scraper')
