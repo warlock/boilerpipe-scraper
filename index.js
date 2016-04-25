@@ -22,4 +22,10 @@ module.exports = function (url, proxy, callback) {
   proc.stdout.on('end', function () {
     callback(error.join(""), list.join(""))
   })
+
+  setTimeout(function () {
+    callback("KILL", "")
+    proc.kill('SIGHUP')
+  }, 60000)
+
 }
