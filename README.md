@@ -4,6 +4,7 @@ Boilerpipe with modifications. In unique instance:
 - Checks size of text and make multiple filters for get bigger.
 (Request timeout configurable)
 
+
 ```javascript
 var boiler = require('boilerpipe-scraper')
 
@@ -12,3 +13,5 @@ boiler("http://www.spellbook.io", "192.168.0.1:3128 192.168.0.2:3128", (err, tex
   else console.log(text)
 })
 ```
+
+### That lib requires the Java VM 

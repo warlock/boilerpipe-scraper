@@ -1,7 +1,7 @@
 {
   "name": "boilerpipe-scraper",
-  "version": "0.0.23",
-  "description": "Boilerpipe Modification",
+  "version": "0.0.24",
+  "description": "Boilerpipe Modification for Node.js",
   "main": "index.js",
   "repository": {
     "type": "git",

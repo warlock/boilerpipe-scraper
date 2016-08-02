@@ -16,12 +16,10 @@ module.exports = function (url, proxy, callback) {
   var error = [];
   proc.stdout.setEncoding('utf8');
   proc.stdout.on('data', function (res) {
-    clearTimeout(timeout);
     list.push(res);
   });
 
   proc.stderr.on('error', function (err) {
-    clearTimeout(timeout);
     error.push(err);
   });
 
