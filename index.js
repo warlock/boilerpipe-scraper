@@ -10,7 +10,7 @@ module.exports = function (url, proxy, callback) {
 	exec(proc, { timeout : 60000 }, function (error, stdout, stderr) {
 		if (error) callback(error);
 		else {
-			console.err(stdout);
+			console.error(stdout);
 			callback(null, stdout);
 		}
 	});
