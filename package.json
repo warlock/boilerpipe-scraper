@@ -1,6 +1,6 @@
 {
   "name": "boilerpipe-scraper",
-  "version": "0.0.27",
+  "version": "1.0.0",
   "description": "Boilerpipe Modification for Node.js",
   "main": "index.js",
   "repository": {
@@ -12,10 +12,10 @@
     "crawler",
     "scraper"
   ],
-  "author": "Josep Subils",
-  "license": "ISC",
+  "author": "Josep Subils <js@js.gl> (http://js.gl)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/warlock/boilerpipe-scraper/issues"
   },
-  "homepage": "https://github.com/warlock/boilerpipe-scraper"
+  "homepage": "https://js.gl"
 }
